@@ -1,2 +1,3 @@
-#!/bin/bas
+#!/bin/bash
 file iamafile /tmp
+
