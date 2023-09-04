@@ -1,5 +1,6 @@
 #!/bin/bash
-file  /tmp/iamafile
+file_path = "/tmp/iamafile"
+
 
 
 
